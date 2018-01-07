@@ -9,6 +9,5 @@
         android:inputType="textPersonName"
         android:text="@string/wants"
         android:ems="10"
-        android:id="@+id/editText"
-        android:focusable=""/>
+        android:id="@+id/editText" />
 </LinearLayout>
